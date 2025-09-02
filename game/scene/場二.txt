@@ -1,0 +1,7 @@
+changeBg:2.png -next;
+bgm:none;
+changeBg:螢幕擷取畫面 2025-09-02 222215.png -next;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:中興大學課程查詢-系所歷年上課時間|的1 2 3 4 5 / A B C D 意思是? -「ぴーんぽーんぱーんぽーん」.mp3 -notend -left -fontSize=large;
+choose:難易程度/英文等級:場二錯.txt|星期/節次:場二對.txt|年級/代號:場二錯.txt;

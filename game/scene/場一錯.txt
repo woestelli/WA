@@ -1,0 +1,5 @@
+
+changeBg:2.png -next;
+miniAvatar:25-8月-10-07-07-01-07.png;
+沁蕾:答錯了喔! 上課時間"第1碼代表「星期」，其餘代表「節次」|如需要詢問課業、行政事項可以到Y701 -「ん～？」.mp3 -fontSize=large;
+callScene:場二.txt;

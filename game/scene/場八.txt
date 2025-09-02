@@ -1,0 +1,6 @@
+changeBg:8.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:新聞上出現「古蹟自燃」|你第一個反應是？ -「おっ！」.mp3 -notend -left -fontSize=large;
+choose:終於不用報告的實地調查:場九.txt|拍照 發threads:場九.txt|好奇原因，開始搜尋資料:場九.txt;

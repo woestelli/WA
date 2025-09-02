@@ -1,0 +1,6 @@
+changeBg:6.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:文化保存時光機，|你會把誰的故事先留下？ -「ん～？」.mp3 -notend -left -fontSize=large;
+choose:原住民族的智慧與歌謠:場七.txt|戰爭與白色恐怖的記憶:場七.txt|家鄉巷弄的地方知識:場七.txt;

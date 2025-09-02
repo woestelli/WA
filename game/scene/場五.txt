@@ -1,0 +1,6 @@
+changeBg:5.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:校園旁的河川會「說話」，|牠最可能對你喊什麼？ -「わん！」.mp3 -notend -left -fontSize=large;
+choose:拜託別再丟垃圾了:場六.txt|我家魚會躍龍門要看嘛:場六.txt|幫我寫一首詩吧:場六.txt;

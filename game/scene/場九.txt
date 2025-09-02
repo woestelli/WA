@@ -1,0 +1,6 @@
+changeBg:9.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:網路上出現一則|假新聞，你會？ -「ん～？」.mp3 -notend -left -fontSize=large;
+choose:馬上求證:結局.txt|分享給朋友提醒:結局.txt|當笑話看過去:結局.txt;

@@ -1,0 +1,11 @@
+changeBg:0.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:none;
+changeFigure:25-8月-10-07-07-07-04.png -right;
+沁蕾:文化不僅是記憶，|它也在每一次 對話與創作中被延續。;
+我們既是歷史的見證者，|也是新故事的書寫者。 -fontSize=large;
+;
+面對複雜的問題，|沒有唯一解答，但我們總能找到方向 -notend -fontSize=large;
+changeFigure: -right -next;
+changeScene:場八.txt;

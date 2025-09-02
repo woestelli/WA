@@ -1,0 +1,12 @@
+changeBg:0.png -next;
+bgm:none;
+bgm:SUNO.mp3 -vocal= Corbyn Kites.mp3 -enter=5~有效;
+miniAvatar:none;
+changeFigure:25-8月-10-07-07-07-04.png -right;
+沁蕾:感謝大家參與 |透過這種形式呈現;
+;
+讓大家可以快速了解事情|這也是我在中興文創學習到的 -fontSize=large;
+changeFigure: -right;
+changeFigure:25-8月-10-07-07-08-32.png;
+我們回到演講 可以按X退出去 -center -fontSize=large;
+end;

@@ -1,0 +1,6 @@
+
+changeBg:3.png -next;
+miniAvatar:25-8月-10-07-07-08-32.png;
+沁蕾:答對了喔! 借鑰匙會需要登記換證!|人文大樓的話早上課程是去五樓辦公室借用|晚上則是會有工讀生來開門 -「あっ！」.mp3 -notend -fontSize=large;
+如有空堂或提早學校到可借用綜大5樓的自習室~~|團體討論或一人都可借用 有冷氣!!! -notend;
+changeScene:過場.txt;

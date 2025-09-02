@@ -1,0 +1,6 @@
+changeBg:7.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:有心理壓力時，|最常的反應是？ -girl_voice1.mp3 -notend -left;
+choose:阿姨 我不想努力了:過場一.txt|睡一覺先逃避:過場一.txt|開始創作／運動:過場一.txt;

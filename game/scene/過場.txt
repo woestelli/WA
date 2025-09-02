@@ -1,0 +1,9 @@
+changeBg:0.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:none;
+changeFigure:25-8月-10-07-07-07-04.png -right;
+沁蕾:從校園走出去|我們會遇見更多 需要思考的現象 -fontSize=large;
+接下來|讓我們把視野放寬 看一看文化與社會的面貌 -notend -fontSize=large;
+changeFigure: -right -next;
+changeScene:場四.txt;

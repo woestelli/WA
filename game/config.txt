@@ -1,0 +1,8 @@
+Game_name:興文;
+Game_key:d513dfbe0bf29c8;
+Title_img:興文.png;
+Title_bgm:綠橋的傳書旅人.mp3;
+Textbox_theme:imss;
+Description:願每一位參與者都能在中興找到屬於自己的「新知識」;
+Package_name:興文;
+Default_Language:zh_TW;

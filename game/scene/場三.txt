@@ -1,0 +1,6 @@
+changeBg:3.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:綜合大樓的上課鑰匙要去哪裡借?? -「ぴーんぽーんぱーんぽーん」.mp3 -notend -left -fontSize=large;
+choose:綜合大樓Y102:場三對.txt|綜合大樓Y302:場三錯.txt|綜合大樓通識中心:場三錯.txt;

@@ -1,0 +1,13 @@
+bgm:sht_a04.mp3 -vocal= Corbyn Kites.mp3 -enter=1;
+changeBg:0.png -next;
+changeFigure:25-8月-10-07-07-07-04.png -right -next;
+setAnimation:enter-from-right -next -target=fig-right;
+沁蕾:歡迎大家加入中興文創|這幾天應該都在自我介紹|想必大家都已經有點累了 -girl_voice1.mp3 -notend -id;
+沁蕾:我們來玩小遊戲|讓大家對於中興文創更了解 -「わん！」.mp3 -notend -fontSize=large;
+changeBg:1.png;
+changeFigure: -right -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+文創學程的辦公室位於? -「ぴーんぽーんぱーんぽーん」.mp3 -notend -left -fontSize=large;
+choose:綜合大樓:場一對.txt|人文大樓:場一錯.txt|行政大樓:場一錯.txt;

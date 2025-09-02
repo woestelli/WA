@@ -1,0 +1,6 @@
+changeBg:4.png -next;
+bgm:none;
+bgm:sht_a02.mp3 -enter=5~有效;
+miniAvatar:25-8月-10-07-07-07-04.png;
+沁蕾:有一張「文創萬能卡」，|你最想兌換什麼？ -「ん～？」.mp3 -notend -left -fontSize=large;
+choose:歐趴全通過:場五.txt|交到好知己:場五.txt|教授通靈術:場五.txt;
